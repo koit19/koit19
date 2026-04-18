@@ -1,1 +1,3 @@
-Everything is on my gitlab: https://gitlab.com/koitt
+A trans demigirl trying to make things.
+
+Everything: [Gitlab](https://gitlab.com/koitt)
