@@ -1,3 +1,3 @@
 A trans demigirl trying to make things.
 
-Everything: [Gitlab](https://gitlab.com/koitt)
+Everything: [Codeberg](https://codeberg.org/manufu)
